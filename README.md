@@ -7,7 +7,11 @@ All you need to do is execute the random.php file from console, you may also add
 The script  has a really low chance of selecting the same word over and over again but here are some sentences spilled out  by the script:
 
 "This is another wren"
+
 "Will you get last"
+
 "I think hurt"
+
 "This is another drab"
+
 "You know accelerate"
